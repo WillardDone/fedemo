@@ -1,2 +1,3 @@
-# fedemo
-fe jinja template demo
+##前端使用jinja2模板渲染页面结构
+
+>简单的提供前端使用jinja2模板，利用继承机制，将页面功能模块划分归类，方便后续后端嵌套模板页；
